@@ -1,0 +1,20 @@
+2018-12-12 10:34:59,874 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jiuyecom:TestDemo:0.0.1-SNAPSHOT @ D:\myworkspace\maven_repository\TestDemo\pom.xml.
+2018-12-12 10:35:01,599 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestDemo/src/main/java
+2018-12-12 10:35:01,600 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestDemo/src/test/java
+2018-12-12 10:35:01,916 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2018-12-12 10:35:03,965 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-12 10:35:03,966 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\myworkspace\maven_repository\TestDemo\src\main\resources
+2018-12-12 10:35:03,969 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-12 10:35:03,969 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\myworkspace\maven_repository\TestDemo\src\test\resources
+2018-12-12 10:35:46,827 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jiuyescm:automation:0.0.1-SNAPSHOT @ D:\ceshi\06 自动化\automation\pom.xml.
+2018-12-12 10:35:49,092 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/uncommons/reportng/1.1.4/reportng-1.1.4.pom
+2018-12-12 10:35:49,366 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/uncommons/reportng/1.1.4/reportng-1.1.4.pom
+2018-12-12 10:35:50,042 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/uncommons/reportng/1.1.4/reportng-1.1.4.jar
+2018-12-12 10:35:50,636 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/uncommons/reportng/1.1.4/reportng-1.1.4.jar
+2018-12-12 10:35:51,588 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automation/src/main/java
+2018-12-12 10:35:51,589 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automation/src/test/java
+2018-12-12 10:35:51,835 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2018-12-12 10:35:53,963 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-12 10:35:53,963 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ceshi\06 自动化\automation\src\main\resources
+2018-12-12 10:35:53,965 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-12 10:35:53,966 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ceshi\06 自动化\automation\src\test\resources
